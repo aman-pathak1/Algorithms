@@ -62,11 +62,11 @@
 | Lab 2 | 19 Jan 2026 | Recursion | Factorial, Fibonacci, Tower of Hanoi | [Lab_2_AlgorithmsBasics (1).ipynb](./Lab_2_AlgorithmsBasics%20(1).ipynb) |
 | Lab 3 | 26 Jan 2026 | Growth of Functions | Big-O, Big-Ω, Big-Θ Analysis | [Lab_3_Growth_of_function.ipynb](./Lab_3_Growth_of_function.ipynb) |
 | Lab 4 | 2 Feb 2026 | Sorting Basics | Bubble Sort, Selection Sort, Insertion Sort | [lab_4.ipynb](./lab_4.ipynb) |
-| Lab 5 | 9 Feb 2026 | Divide & Conquer | Merge Sort, Quick Sort, Binary Search | [Lab_5.ipynb](./Lab_5.ipynb) |
-| Lab 6 | 16 Feb 2026 | Greedy Algorithms | Activity Selection, Fractional Knapsack | [Lab_6.ipynb](./Lab_6.ipynb) |
-| Lab 7 | 23 Feb 2026 | Dynamic Programming | 0/1 Knapsack, LCS, Matrix Chain | [Lab_7.ipynb](./Lab_7.ipynb) |
-| Lab 8 | 2 Mar 2026 | Graph Algorithms | BFS, DFS, Dijkstra, Bellman-Ford | [Lab_8.ipynb](./Lab_8.ipynb) |
-| Lab 9 | 9 Mar 2026 | Trees & Heaps | BST, AVL, Heap Sort, Priority Queue | [Lab_9.ipynb](./Lab_9.ipynb) |
+| Lab 5 | 16 Feb 2026 | Divide & Conquer | Merge Sort, Quick Sort, Binary Search | [Lab_5.ipynb](./Lab_5.ipynb) |
+| Lab 6 | 23 Feb 2026 | Greedy Algorithms | Activity Selection, Fractional Knapsack | [Lab_6.ipynb](./Lab_6.ipynb) |
+| Lab 7 | 16 Mar 2026 | Dynamic Programming | 0/1 Knapsack, LCS, Matrix Chain | [Lab_7.ipynb](./Lab_7.ipynb) |
+| Lab 8 | 23 Mar 2026 | Graph Algorithms | BFS, DFS, Dijkstra, Bellman-Ford | [Lab_8.ipynb](./Lab_8.ipynb) |
+| Lab 9 | 6 Apr 2026 | Trees & Heaps | BST, AVL, Heap Sort, Priority Queue | [Lab_9.ipynb](./Lab_9.ipynb) |
 
 ---
 
