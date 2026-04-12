@@ -76,9 +76,9 @@
 |--------|-------|
 | Total Labs | 9 |
 | Total LeetCode Problems Solved in 2026 | 70+ |
-| Easy | 18 |
-| Medium | 13 |
-| Hard | 1 |
+| Easy | 30 |
+| Medium | 30 |
+| Hard | 10 |
 
 ---
 
