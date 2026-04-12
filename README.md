@@ -20,21 +20,21 @@
 | 8 | 28 Jan 2026 | Find Pivot Index | LeetCode | Arrays / Prefix Sum | Easy | Prefix Sum | O(n) | — |
 | 9 | 2 Feb 2026 | Sorting Algorithms | Lab | Sorting | — | Bubble / Selection / Insertion | O(n²) | [lab_4.ipynb](./lab_4.ipynb) |
 | 10 | 4 Feb 2026 | Sort Colors | LeetCode | Sorting | Medium | Dutch National Flag | O(n) | — |
-| 11 | 9 Feb 2026 | Divide & Conquer | Lab | Divide & Conquer | — | Merge Sort / Quick Sort | O(n log n) | [Lab_5.ipynb](./Lab_5.ipynb) |
+| 11 | 16 Feb 2026 | Divide & Conquer | Lab | Divide & Conquer | — | Merge Sort / Quick Sort | O(n log n) | [Lab_5.ipynb](./Lab_5.ipynb) |
 | 12 | 11 Feb 2026 | Merge Sorted Array | LeetCode | Sorting | Easy | Two Pointer | O(m+n) | — |
-| 13 | 16 Feb 2026 | Greedy Algorithms | Lab | Greedy | — | Greedy Selection | O(n log n) | [Lab_6.ipynb](./Lab_6.ipynb) |
+| 13 | 23 Feb 2026 | Greedy Algorithms | Lab | Greedy | — | Greedy Selection | O(n log n) | [Lab_6.ipynb](./Lab_6.ipynb) |
 | 14 | 18 Feb 2026 | Jump Game | LeetCode | Greedy | Medium | Greedy | O(n) | — |
-| 15 | 23 Feb 2026 | Dynamic Programming | Lab | Dynamic Programming | — | Memoization / Tabulation | O(n²) | [Lab_7.ipynb](./Lab_7.ipynb) |
+| 15 | 16 Mar 2026 | Dynamic Programming | Lab | Dynamic Programming | — | Memoization / Tabulation | O(n²) | [Lab_7.ipynb](./Lab_7.ipynb) |
 | 16 | 26 Feb 2026 | 1108. Defanging an IP Address | LeetCode | Strings | Easy | String Replace | O(n) | — |
 | 17 | 27 Feb 2026 | 3783. Mirror Distance of an Integer | LeetCode | Math | Easy | Math | O(log n) | — |
 | 18 | 28 Feb 2026 | 171. Excel Sheet Column Number | LeetCode | Math | Easy | Base-26 Conversion | O(n) | — |
-| 19 | 2 Mar 2026 | Graph Algorithms | Lab | Graphs | — | BFS / DFS | O(V+E) | [Lab_8.ipynb](./Lab_8.ipynb) |
+| 19 | 23 Mar 2026 | Graph Algorithms | Lab | Graphs | — | BFS / DFS | O(V+E) | [Lab_8.ipynb](./Lab_8.ipynb) |
 | 20 | 1 Mar 2026 | 1389. Create Target Array in the Given Order | LeetCode | Arrays | Easy | Simulation | O(n²) | — |
 | 21 | 2 Mar 2026 | 2807. Insert Greatest Common Divisors in Linked List | LeetCode | Linked List | Medium | GCD + Traversal | O(n log n) | — |
 | 22 | 3 Mar 2026 | 2391. Minimum Amount of Time to Collect Garbage | LeetCode | Greedy | Medium | Greedy | O(n) | — |
 | 23 | 4 Mar 2026 | 3760. Maximum Substrings With Distinct Start | LeetCode | Strings | Medium | Greedy | O(n) | — |
 | 24 | 6 Mar 2026 | 2044. Count Number of Maximum Bitwise-OR Subsets | LeetCode | Bit Manipulation | Medium | Backtracking / Bit Mask | O(2ⁿ) | — |
-| 25 | 9 Mar 2026 | Advanced Topics | Lab | Trees / Heaps | — | Various | O(n log n) | [Lab_9.ipynb](./Lab_9.ipynb) |
+| 25 | 6 Apr 2026 | Advanced Topics | Lab | Trees / Heaps | — | Various | O(n log n) | [Lab_9.ipynb](./Lab_9.ipynb) |
 | 26 | 9 Mar 2026 | 1630. Arithmetic Subarrays | LeetCode | Arrays / Sorting | Medium | Sort & Check | O(n·k log k) | — |
 | 27 | 11 Mar 2026 | 1009. Complement of Base 10 Integer | LeetCode | Bit Manipulation | Easy | Bit Flip | O(log n) | — |
 | 28 | 12 Mar 2026 | 6. Zigzag Conversion | LeetCode | Strings | Medium | Row Simulation | O(n) | — |
