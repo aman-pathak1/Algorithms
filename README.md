@@ -75,17 +75,13 @@
 | Metric | Count |
 |--------|-------|
 | Total Labs | 9 |
-| Total LeetCode Problems Solved | 32 |
+| Total LeetCode Problems Solved in 2026 | 70+ |
 | Easy | 18 |
 | Medium | 13 |
 | Hard | 1 |
 
 ---
 
-## 🔗 LeetCode Profile
 
-> Problems solved alongside the APS course labs — one per week minimum.
-
----
 
 *Last updated: April 2026*
