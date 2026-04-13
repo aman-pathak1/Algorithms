@@ -20,6 +20,7 @@
 | Lab 7 | 16 Mar 2026 | Dynamic Programming | 0/1 Knapsack, LCS, Matrix Chain | [Lab_7.ipynb](./Lab_7.ipynb) |
 | Lab 8 | 23 Mar 2026 | Graph Algorithms | BFS, DFS, Dijkstra, Bellman-Ford | [Lab_8.ipynb](./Lab_8.ipynb) |
 | Lab 9 | 6 Apr 2026 | Trees & Heaps | BST, AVL, Heap Sort, Priority Queue | [Lab_9.ipynb](./Lab_9.ipynb) |
+| Lab 10 | 13 Apr 2026 | Graphs| Floyed Warshall & Dijkshtra | [Lab_10.ipynb](./Lab_10.ipynb) |
 
 ---
 
