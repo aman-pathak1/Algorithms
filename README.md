@@ -59,7 +59,7 @@
 | 29 | 13 Mar 2026 | 3296. Minimum Number of Seconds to Make Mountain Array | LeetCode | Arrays / DP | Medium | LIS Variant | O(n log n) | — |
 | 30 | 15 Mar 2026 | 1415. The k-th Lexicographical String of All Happy Strings | LeetCode | Backtracking | Medium | DFS | O(2ⁿ) | — |
 | 31 | 15 Mar 2026 | 1622. Fancy Sequence | LeetCode | Math / Design | Hard | Lazy Propagation | O(1) per op | — |
-| Lab 10 | 13 Apr 2026 | Advanced Topics | Lab | Graphs | — | Various | O(n^3) | [Lab_10.ipynb](./Lab_10.ipynb) |
+| - | Lab 10 | 13 Apr 2026 | Advanced Topics | Lab | Graphs | — | Various | O(n^3) | [Lab_10.ipynb](./Lab_10.ipynb) |
 | 32 | 18 Mar 2026 | 3070. Count Submatrices with Top-Left Element | LeetCode | Matrix / DP | Medium | Prefix Sum | O(m·n) | — |
 | 33 | 19 Mar 2026 | 99. Recover Binary Search Tree | LeetCode | Trees | Medium | Morris Traversal | O(n) | — |
 | 34 | 22 Mar 2026 | 1886. Determine Whether Matrix Can Be Obtained By Rotation | LeetCode | Matrix | Easy | Rotation Check | O(n²) | — |
