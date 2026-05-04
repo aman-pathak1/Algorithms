@@ -72,18 +72,19 @@
 | 39 | 10 Apr 2026 | 121. Best Time to Buy and Sell Stock | LeetCode | Arrays / Greedy | Easy | One Pass | O(n) | — |
 | 40 | 11 Apr 2026 | 8. String to Integer (atoi) | LeetCode | Strings | Medium | Parsing | O(n) | — |
 | 41 | 12 Apr 2026 | 3898. Find the Degree of Each Vertex | LeetCode | Graphs | Easy | Degree Count | O(V+E) | — |
-
+| 42 | Lab 11 | 27 Apr 2026 | Graphs| travelling problem | [Lab_11.ipynb](./Lab_11.ipynb) |
+| 43 | Lab 12 | 04 May 2026 | Matrix| Matrix Chain Multiplication | [Lab_12.ipynb](./Lab_12.ipynb) |
 
 
 ## 📊 Stats
 
 | Metric | Count |
 |--------|-------|
-| Total Labs | 9 |
-| Total LeetCode Problems Solved in 2026 | 70+ |
+| Total Labs | 12 |
+| Total LeetCode Problems Solved in 2026 | 130+ |
 | Easy | 30 |
-| Medium | 30 |
-| Hard | 10 |
+| Medium | 70 |
+| Hard | 30 |
 
 ---
 
