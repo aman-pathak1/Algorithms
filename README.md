@@ -22,6 +22,7 @@
 | Lab 9 | 6 Apr 2026 | Trees & Heaps | BST, AVL, Heap Sort, Priority Queue | [Lab_9.ipynb](./Lab_9.ipynb) |
 | Lab 10 | 13 Apr 2026 | Graphs| Floyed Warshall & Dijkshtra | [Lab_10.ipynb](./Lab_10.ipynb) |
 | Lab 11 | 27 Apr 2026 | Graphs| travelling problem | [Lab_11.ipynb](./Lab_11.ipynb) |
+| Lab 12 | 04 May 2026 | Matrix| Matrix Chain Multiplication | [Lab_12.ipynb](./Lab_12.ipynb) |
 
 ---
 
